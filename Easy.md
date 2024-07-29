@@ -5,3 +5,4 @@
 3. My Father is a government servant in Pakistan Airforce
 4. I am 25 year old
 5. I Live in Kamra, Attock
+6. I have done diploma in Computer information technology
