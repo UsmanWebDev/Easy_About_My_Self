@@ -9,3 +9,4 @@
 7. I Love to play football
 8. I am Frontend Web Developer and My main technology of work is laravel butt I want to change it into python with generative ai
 9. I have also Some Experience of Software Quality Assurance with playwright in Skylark IT Solution
+10. I am also good Car driver
