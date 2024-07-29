@@ -7,3 +7,4 @@
 5. I Live in Kamra, Attock
 6. I have done diploma in Computer information technology
 7. I Love to play football
+8. I am Frontend Web Developer and My main technology of work is laravel butt I want to change it into python with generative ai
