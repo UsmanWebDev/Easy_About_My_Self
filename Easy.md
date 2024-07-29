@@ -6,3 +6,4 @@
 4. I am 25 year old
 5. I Live in Kamra, Attock
 6. I have done diploma in Computer information technology
+7. I Love to play football
